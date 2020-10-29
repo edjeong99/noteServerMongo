@@ -3,7 +3,7 @@ It is a personal project to improve my back-end development skills.
 
 The original app took 4 days to develop as part of Lambda School's curriculum.  It used Postgres DB and had more features. It is deployed at Heroku (https://ed-notes.herokuapp.com/) with same endpoints specified below.
 
-Using that app, I implement MongoDB and other features.
+Using this app as a base, I modified to implement MongoDB and other features.
 
 
 

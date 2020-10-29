@@ -1,7 +1,7 @@
 require('dotenv').config();
 
 const dbUri = process.env.DBURI;
-console.log('dbUri = ', dbUri);
+// console.log('dbUri = ', dbUri);
 const MongoClient = require('mongodb').MongoClient;
 
 const client = new MongoClient(dbUri, { useNewUrlParser: true });
